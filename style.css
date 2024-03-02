@@ -43,3 +43,7 @@ form .display input{
 form input.equal{
     width:7.2rem;
 }
+
+form input.operator{
+    color: aqua;
+}
